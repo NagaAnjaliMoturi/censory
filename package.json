@@ -6,7 +6,7 @@
 "main": "censortext", 
   "repository": { 
 "type": "git", 
-"url": "https://github.com/NagaAnjaliMoturi/censory" 
+"url": "https://github.com/NagaAnjaliMoturi/censory.git" 
 }, 
 "keyword":[
 "censor" ,
